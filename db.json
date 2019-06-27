@@ -1,4 +1,13 @@
 {
+	"titles":[
+		{
+		"title":"Diet1"
+		},
+		{
+		"title":"Diet2"
+		}
+	
+	],
 	"posts":[
 	{
 	   	"id":1,
